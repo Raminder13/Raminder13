@@ -1,4 +1,4 @@
-! (github-cover.jpg)
+! [git] (github-cover.jpg "git")
 
 ## About me
 
