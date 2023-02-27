@@ -1,20 +1,44 @@
-<img src="github-cover.jpg">
-### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India
-- :telescope: I'm working as a Software Engineer and contributing to frontend and backend for building web applications.
+![Why Git](assets/whygit.png "Why Git")
 
-- :seedling: Exploring Technical Content Writing.
+## About me
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+Hello world. I'm Andre Specht, an IT instructor and full-stack developer based
+in Winnipeg, Canada.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+I'm a passionate developer focused on crafting beautiful and functional 
+websites. I also love teaching and helping others to turn ideas into amazing 
+interactive applications.
 
+My programming experience includes JavaScript, Node, TypeScript, React,
+C#, Java, and Python. Do you wanna know more? Get in touch. I look forward to
+hearing from you.
+
+Official websites: <a href="https://andrespecht.com/" target="_blank">andrespecht.com</a> | <a href="https://andrespecht.dev/" target="_blank">andrespecht.dev</a>
+
+##
+
+### My skills
+
+![](https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=51be8d)
+![](https://img.shields.io/badge/code-node-informational?style=for-the-badge&logo=javascript&logoColor=white&color=51be8d)
+![](https://img.shields.io/badge/code-typescript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=51be8d)
+![](https://img.shields.io/badge/code-react-informational?style=for-the-badge&logo=react&logoColor=white&color=51be8d)
+![](https://img.shields.io/badge/code-c%23-informational?style=for-the-badge&logo=csharp&logoColor=white&color=51be8d)
+![](https://img.shields.io/badge/code-java-informational?style=for-the-badge&logo=java&logoColor=white&color=51be8d)
+![](https://img.shields.io/badge/code-python-informational?style=for-the-badge&logo=python&logoColor=white&color=51be8d)
+![](https://img.shields.io/badge/web-html-informational?style=for-the-badge&logo=html5&logoColor=white&color=51be8d)
+![](https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=white&color=51be8d)
+![](https://img.shields.io/badge/db-mysql-informational?style=for-the-badge&logo=mysql&logoColor=white&color=51be8d)
+![](https://img.shields.io/badge/db-firebase-informational?style=for-the-badge&logo=firebase&logoColor=white&color=51be8d)
+
+##
+
+### My stats
+
+<a href="https://github.com/mrspecht">
+  <img height="205px" align="center" src="https://github-readme-stats.vercel.app/api?username=mrspecht&theme=vue&show_icons=true" alt="My GitHub stats" />
+</a>
+<a href="https://github.com/mrspecht">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrespecht&theme=vue&hide=Ruby&show_icons=true&langs_count=3" alt="My 
+  GitHub stats"/>
+</a>
