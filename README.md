@@ -1,4 +1,6 @@
-! [git] (github-cover.jpg "git")
+<a href="">
+    <img align="center" src="github-cover.jpg" alt="git" />
+</a>
 
 ## About me
 
