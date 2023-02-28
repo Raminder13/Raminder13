@@ -41,6 +41,6 @@ Official websites: <a href="https://andrespecht.com/" target="_blank">andrespech
   <img height="205px" align="center" src="https://github-readme-stats.vercel.app/api?username=Raminder13&theme=vue&show_icons=true" alt="My GitHub stats" />
 </a>
 <a href="https://github.com/Raminder13">
-  <img align="center" height="205px" width='200px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raminder13&theme=vue&hide=Ruby&show_icons=true&langs_count=3" alt="My 
+  <img align="center" height="200px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raminder13&theme=vue&hide=Ruby&show_icons=true&langs_count=3" alt="My 
   GitHub stats"/>
 </a>
