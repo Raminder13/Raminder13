@@ -4,16 +4,21 @@
 
 ## About me
 
-Hello world. I'm Andre Specht, an IT instructor and full-stack developer based
-in Winnipeg, Canada.
+Hello world,
+I'm Raminder Singh, an IT Student. I am studying software 
+developer program at MITT Winnipeg.
+ 
+ I am enthisastic programmer, Learning about new skills and technologies
+ to become a successfull software developer for making everyone's future
+ more brighter. Looking forward from hearing from you...
 
-I'm a passionate developer focused on crafting beautiful and functional 
-websites. I also love teaching and helping others to turn ideas into amazing 
-interactive applications.
+My programming experience includes JavaScript, Node, React,
+C#, Java, and Python.
 
-My programming experience includes JavaScript, Node, TypeScript, React,
-C#, Java, and Python. Do you wanna know more? Get in touch. I look forward to
+Do you wanna know more? Get in touch. I look forward to
 hearing from you.
+
+My LinkedIn Profile : <a href=""> RamkinderSingh/LinkedIn </a>
 
 
 
